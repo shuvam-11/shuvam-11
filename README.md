@@ -219,9 +219,6 @@ const Shuvam = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shuvam-11&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats" />
