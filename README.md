@@ -13,7 +13,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://github.com/shuvam-11/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/shuvam-11/Github-Profile/blob/main/assets/shuvam.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
 const Shuvam = {
@@ -286,7 +286,7 @@ const Shuvam = {
   <a href="https://github.com/sponsors/shuvam-11">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&border_radius=10" alt="GitHub Sponsors">
   </a>
-  <a href="https://buymeacoffee.com/sonusumanog">
+  <a href="https://buymeacoffee.com/shuvam11">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&border_radius=10" alt="Buy Me A Coffee">
   </a>
 </div>
