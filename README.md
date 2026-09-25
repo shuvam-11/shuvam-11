@@ -13,7 +13,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://github.com/shuvam-11/Github-Profile/blob/main/assets/shuvam.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/shuvam-11/shuvam-11/blob/main/shuvam.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
 const Shuvam = {
