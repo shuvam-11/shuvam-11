@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Sonu;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Shuvam;" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
   <a href="https://my-portfolio-wkse.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
-  <a href="https://www.linkedin.com/in/sonu-suman-ojha-81a443301/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
-  <a href="https://x.com/SonusumanO" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
-  <a href="https://www.instagram.com/nxt__sonu__/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.linkedin.com/in/shuvam-jena-b830b1378/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
+  <a href="https://x.com/shuvam_xx" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.instagram.com/_shuxam.11/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
   <a href="https://stackoverflow.com/users/26817244"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&border_radius=10"/></a>
-  <a href="https://codepen.io/Sonusuman"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
+  <a href="https://codepen.io/Shuvam"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
   <a href="https://www.facebook.com/profile.php?id=148566998800"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
 </div>
 
 ## 👨🏻‍💻 About Me
-<img src="https://github.com/sonusuman147/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://github.com/shuvam-11/Github-Profile/blob/main/assets/sonu.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
-const Sonu = {
+const Shuvam = {
     Education: "BTech CSE ",
     Passion: ["Web Development", "Data Science", "Gen AI"],
     Website: "my-portfolio-wkse.vercel.app",
@@ -224,18 +224,18 @@ const Sonu = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sonusuman147&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sonusuman147&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shuvam-11&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shuvam-11&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=sonusuman147&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=shuvam-11&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shuvam-11&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## ⌨️ My Coding Stats
@@ -244,7 +244,7 @@ const Sonu = {
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-241%20hrs%2047%20mins-blue?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sonusuman147&label=Profile%20Views&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=shuvam-11&label=Profile%20Views&style=for-the-badge&color=0e75b6)
 
 ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-2.3%20Million%20Lines%20of%20Code-blue?style=for-the-badge)
 
@@ -283,7 +283,7 @@ const Sonu = {
 
 
 <div align="left">
-  <a href="https://github.com/sponsors/sonusuman147">
+  <a href="https://github.com/sponsors/shuvam-11">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&border_radius=10" alt="GitHub Sponsors">
   </a>
   <a href="https://buymeacoffee.com/sonusumanog">
@@ -293,27 +293,27 @@ const Sonu = {
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sonusuman147&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=shuvam-11&style=for-the-badge&color=blueviolet&border_radius=10" alt="Profile Views">
 </p>
 
   ## 🤝 Connect with the Developer :
 <p align="center">
-<a href="https://www.linkedin.com/in/sonu-suman-ojha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shuvam-jena-b830b1378/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJfnbctwDxhPVGfRmDnqrrprlvwRLCZBHHbNXcdVsjrQPcrQFqtClKrfmvQqzrCVqTBHnvB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🎮 Contribution Pac-Man Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonusuman147/sonusuman147/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph" />
+  <img src="https://raw.githubusercontent.com/shuvam-11/shuvam-11/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sonusuman147?label=Follow%20Sonu&style=social" />
+  <img src="https://img.shields.io/github/followers/shuvam-11?label=Follow%20Shuvam&style=social" />
 </p>
 
 <p align="center">
-  <i>💙 Crafted with Passion, Precision & Coffee by <b>Sonu Suman Ojhaa</b> ☕</i>
+  <i>💙 Crafted with Passion, Precision & Coffee by <b>Shuvam Jena</b> ☕</i>
 </p>
 
 <div align="center">
